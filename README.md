@@ -64,5 +64,5 @@ Les courbes de log loss (entraînement vs test) et les histogrammes des erreurs 
 ## **Installation**
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-repo.git
-   cd votre-repo
+   git clone https://github.com/Modelisation.git
+  
